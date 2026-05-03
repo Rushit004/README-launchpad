@@ -33,7 +33,7 @@ This is my high-impact zone. Every project here is built with real-world thinkin
 ![NLP](https://img.shields.io/badge/NLP-f97316?style=flat-square)
 ![Classification](https://img.shields.io/badge/Classification-ef4444?style=flat-square)
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-020617?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/Rushit004/fake-news-detector)
+[![View Repo](https://img.shields.io/badge/View%20Repo-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/fake-news-detector)
 ![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
 
 ---
