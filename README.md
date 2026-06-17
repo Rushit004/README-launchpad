@@ -36,6 +36,19 @@ This is my high-impact zone. Every project here is built with real-world thinkin
 ![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
 
 ---
+### [Spam Shield](https://github.com/Rushit004/spam-shield)
+> SMS Spam Detection system powered by Machine Learning and NLP, deployed with Streamlit for real-time predictions. Classifies messages as spam or not spam with high accuracy.
+
+![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7c2d12?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-f97316?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-f97316?style=flat-square&logo=streamlit&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/spam-shield)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-f97316?style=for-the-badge&logo=streamlit&logoColor=white)](https://sms-spam-shield.streamlit.app/)
+![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
+
+---
 
 ### [fake-news-detector](https://github.com/Rushit004/fake-news-detector)
 > Machine learning model that detects whether a news article is real or fake using NLP techniques and classification algorithms.
