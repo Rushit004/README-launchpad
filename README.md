@@ -23,11 +23,8 @@ This is my high-impact zone. Every project here is built with real-world thinkin
 
 ## 🚀 Projects
 
----
 ### [CineMatch-AI](https://github.com/Rushit004/CineMatch-AI)
 > AI-powered movie recommendation system built with Streamlit that suggests similar movies using content-based filtering, cosine similarity, and live TMDB poster integration.
-
-🌐 **[Live Demo](https://cinematch-ai-mrs.streamlit.app/)**
 
 ![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-7c2d12?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -35,6 +32,7 @@ This is my high-impact zone. Every project here is built with real-world thinkin
 ![NLP](https://img.shields.io/badge/NLP-ef4444?style=flat-square)
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/CineMatch-AI)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-f97316?style=for-the-badge&logo=streamlit&logoColor=white)](https://cinematch-ai-mrs.streamlit.app/)
 ![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
 
 ---
